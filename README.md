@@ -1,5 +1,5 @@
 ## ArrayList Operations Project
-Developed by Senagulen 🏆
+Developed by senagulen 🏆
 ## Overview
 This project implements specialized operations on **ArrayLists** in Java, including deduplication, set intersection, and set difference. The goal is to enhance list processing skills while working with **generic data types** and adhering to Java's best practices.
 
